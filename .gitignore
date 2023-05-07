@@ -1,3 +1,8 @@
 myenv/
 __pycache__/
 git_commands
+# ignore all .txt files
+.txt
+# ignore all .pdf files
+.pdf
+# ignore all .swp files
